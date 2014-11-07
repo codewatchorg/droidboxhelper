@@ -23,5 +23,5 @@ Replace the scripts/droidbox.py file (for DroidBox 4.1.1) with the one provided 
 
 The result of the code modification is that DroidBox outputs the JSON to the screen but also saves it in a file where the file name is the hash of the data.  Then it is just a matter of running:
 <pre>
-  droidboxhelper.py <file>.json
+  droidboxhelper.py hash.json
 </pre>
