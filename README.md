@@ -5,7 +5,7 @@ A slight modification to the DroidBox source and a helper file to convert the ou
 
 Usage
 =====
-Replace the scripts/droidbox.py file (for DroidBox 4.1.1) with the one provided in this repository or modify the code around line 9:
+Replace the scripts/droidbox.py file (for DroidBox 4.1.1) with the one provided in this repository or modify the code around line 512:
 
 <pre>
   - print(json.dumps(output))
